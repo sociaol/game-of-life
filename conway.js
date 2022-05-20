@@ -2,9 +2,9 @@
  * File: conway.js
  * Project: htdoc
  * File Created: Tuesday, 13th April 2021 1:49:45 pm
- * Author: Hayden Kowalchuk
+ * Author: Anthony Montes
  * -----
- * Copyright (c) 2021 Hayden Kowalchuk, Hayden Kowalchuk
+ * Copyright (c) 2021
  * License: BSD 3-clause "New" or "Revised" License, http://www.opensource.org/licenses/BSD-3-Clause
  */
 

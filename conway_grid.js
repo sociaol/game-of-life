@@ -2,9 +2,9 @@
  * File: conway_grid.js
  * Project: Project3
  * File Created: Friday, 16th April 2021 4:36:36 pm
- * Author: Hayden Kowalchuk
+ * Author: Anthony Montes
  * -----
- * Copyright (c) 2021 Hayden Kowalchuk, Hayden Kowalchuk
+ * Copyright (c) 2021 
  * License: BSD 3-clause "New" or "Revised" License, http://www.opensource.org/licenses/BSD-3-Clause
  */
 

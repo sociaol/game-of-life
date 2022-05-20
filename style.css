@@ -11,7 +11,7 @@ h1 {
  font-family: monospace, serif;
  border: solid 4px dimgray;
  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3), -3px -3px 5px rgba(255, 255, 255, 0.3);
- width: 650px;
+ width: auto;
  margin: auto;
  margin-bottom: 50px;
  margin-top: 30px;
@@ -110,7 +110,7 @@ button {
 }
 
 button:hover {
- background: linear-gradient(to bottom, rgb(5, 247, 255) 0%, #0011ff 100%);
+ 
  transform: scale(1.2);
 }
 
@@ -207,7 +207,7 @@ td {
  margin: 1em;
  width: 10em;
  height: 50px;
- background-color: rgba(0, 255, 136, 0.527);
+ background-color: #5c3f8f;
  font-weight: bold;
  font-size: 15px;
  color: white;
